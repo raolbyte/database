@@ -134,5 +134,13 @@
     },
     "timestamp": "2025-07-30T12:02:14.245Z",
     "userIp": "120.188.77.0/24"
+  },
+  {
+    "message": "Lelekkw",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-30T12:11:57.582Z",
+    "userIp": "103.247.23.0/24"
   }
 ]
