@@ -62,5 +62,13 @@
     },
     "timestamp": "2025-07-30T10:01:03.359Z",
     "userIp": "165.16.160.0/20"
+  },
+  {
+    "message": "tai",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-30T10:13:47.137Z",
+    "userIp": "103.247.23.0/24"
   }
 ]
