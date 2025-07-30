@@ -110,5 +110,13 @@
     },
     "timestamp": "2025-07-30T10:58:23.282Z",
     "userIp": "38.9.128.0/19"
+  },
+  {
+    "message": "mm",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-30T11:02:07.652Z",
+    "userIp": "103.149.238.0/23"
   }
 ]
