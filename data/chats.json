@@ -30,5 +30,13 @@
     },
     "timestamp": "2025-07-30T23:00:00.210Z",
     "userIp": "114.79.0.0/20"
+  },
+  {
+    "message": "Mwmek",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-30T23:12:46.309Z",
+    "userIp": "114.10.76.0/22"
   }
 ]
