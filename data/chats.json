@@ -102,5 +102,13 @@
     },
     "timestamp": "2025-07-30T10:47:22.625Z",
     "userIp": "103.80.214.0/23"
+  },
+  {
+    "message": "haiii",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-30T10:58:23.282Z",
+    "userIp": "38.9.128.0/19"
   }
 ]
