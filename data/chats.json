@@ -126,5 +126,13 @@
     },
     "timestamp": "2025-07-30T11:21:03.143Z",
     "userIp": "13.229.0.0/17"
+  },
+  {
+    "message": "hola",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-30T12:02:14.245Z",
+    "userIp": "120.188.77.0/24"
   }
 ]
