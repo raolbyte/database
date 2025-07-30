@@ -38,5 +38,13 @@
     },
     "timestamp": "2025-07-30T08:39:25.044Z",
     "userIp": "114.10.100.0/22"
+  },
+  {
+    "message": "njir keren webnya",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-30T09:11:24.175Z",
+    "userIp": "114.79.39.128/25"
   }
 ]
