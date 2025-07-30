@@ -22,5 +22,13 @@
     },
     "timestamp": "2025-07-30T08:34:33.274Z",
     "userIp": "2404:c0:9000::/37"
+  },
+  {
+    "message": "apatuwoe",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-30T08:34:44.394Z",
+    "userIp": "36.80.240.0/20"
   }
 ]
