@@ -142,5 +142,13 @@
     },
     "timestamp": "2025-07-30T12:11:57.582Z",
     "userIp": "103.247.23.0/24"
+  },
+  {
+    "message": "<script>alert(\"Wkwk\")</script>",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-30T12:54:47.920Z",
+    "userIp": "149.108.0.0/16"
   }
 ]
