@@ -14,5 +14,13 @@
     },
     "timestamp": "2025-07-30T08:02:28.960Z",
     "userIp": "36.73.33.0/24"
+  },
+  {
+    "message": "Puki raol ngetot website tai",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-30T08:34:33.274Z",
+    "userIp": "2404:c0:9000::/37"
   }
 ]
