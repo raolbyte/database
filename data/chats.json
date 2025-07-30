@@ -158,5 +158,13 @@
     },
     "timestamp": "2025-07-30T13:18:10.010Z",
     "userIp": "182.1.80.0/20"
+  },
+  {
+    "message": "Tes",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-30T15:00:54.757Z",
+    "userIp": "160.19.18.0/24"
   }
 ]
