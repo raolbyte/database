@@ -30,5 +30,13 @@
     },
     "timestamp": "2025-07-30T08:34:44.394Z",
     "userIp": "36.80.240.0/20"
+  },
+  {
+    "message": "woi",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-30T08:39:25.044Z",
+    "userIp": "114.10.100.0/22"
   }
 ]
