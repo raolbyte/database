@@ -78,5 +78,13 @@
     },
     "timestamp": "2025-07-30T10:32:13.953Z",
     "userIp": "114.122.16.0/20"
+  },
+  {
+    "message": "ooo",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-30T10:32:59.691Z",
+    "userIp": "125.160.192.0/20"
   }
 ]
