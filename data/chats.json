@@ -86,5 +86,13 @@
     },
     "timestamp": "2025-07-31T03:08:37.487Z",
     "userIp": "114.122.16.0/20"
+  },
+  {
+    "message": "Tambukk",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-31T07:20:39.407Z",
+    "userIp": "103.141.47.0/24"
   }
 ]
