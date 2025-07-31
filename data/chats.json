@@ -70,5 +70,13 @@
     },
     "timestamp": "2025-07-31T02:41:57.969Z",
     "userIp": "112.215.152.0/23"
+  },
+  {
+    "message": "memek",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-31T03:08:10.330Z",
+    "userIp": "114.122.16.0/20"
   }
 ]
