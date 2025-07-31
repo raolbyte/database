@@ -158,5 +158,13 @@
     },
     "timestamp": "2025-07-31T09:05:15.143Z",
     "userIp": "114.125.96.0/20"
+  },
+  {
+    "message": "mmk",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-31T09:18:19.726Z",
+    "userIp": "2400:9800:8c1::/50"
   }
 ]
