@@ -54,5 +54,13 @@
     },
     "timestamp": "2025-07-31T01:20:09.559Z",
     "userIp": "112.215.65.0/24"
+  },
+  {
+    "message": "jadi",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-31T02:10:25.802Z",
+    "userIp": "140.213.156.0/23"
   }
 ]
