@@ -110,5 +110,13 @@
     },
     "timestamp": "2025-07-31T07:41:00.805Z",
     "userIp": "114.10.40.0/24"
+  },
+  {
+    "message": "Raol coli",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-31T07:50:11.904Z",
+    "userIp": "160.22.24.0/23"
   }
 ]
