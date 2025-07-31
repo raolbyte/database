@@ -118,5 +118,13 @@
     },
     "timestamp": "2025-07-31T07:50:11.904Z",
     "userIp": "160.22.24.0/23"
+  },
+  {
+    "message": "<h>Raol AJG</h1>",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-31T08:05:50.028Z",
+    "userIp": "140.213.204.0/24"
   }
 ]
