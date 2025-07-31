@@ -46,5 +46,13 @@
     },
     "timestamp": "2025-07-30T23:18:57.660Z",
     "userIp": "160.19.18.0/24"
+  },
+  {
+    "message": "Raol kontol",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-31T01:20:09.559Z",
+    "userIp": "112.215.65.0/24"
   }
 ]
