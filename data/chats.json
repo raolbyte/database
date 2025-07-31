@@ -142,5 +142,13 @@
     },
     "timestamp": "2025-07-31T08:44:20.291Z",
     "userIp": "202.58.74.0/24"
+  },
+  {
+    "message": "kontollll",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-31T09:04:43.864Z",
+    "userIp": "114.125.96.0/20"
   }
 ]
