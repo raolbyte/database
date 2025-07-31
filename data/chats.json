@@ -126,5 +126,13 @@
     },
     "timestamp": "2025-07-31T08:05:50.028Z",
     "userIp": "140.213.204.0/24"
+  },
+  {
+    "message": "Isi nya ga bener semua tutup aja nih web",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-31T08:41:39.035Z",
+    "userIp": "2400:9800:9b1::/48"
   }
 ]
