@@ -78,5 +78,13 @@
     },
     "timestamp": "2025-07-31T03:08:10.330Z",
     "userIp": "114.122.16.0/20"
+  },
+  {
+    "message": "ngentod bareng ai itu enak",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-31T03:08:37.487Z",
+    "userIp": "114.122.16.0/20"
   }
 ]
