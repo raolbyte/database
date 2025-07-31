@@ -150,5 +150,13 @@
     },
     "timestamp": "2025-07-31T09:04:43.864Z",
     "userIp": "114.125.96.0/20"
+  },
+  {
+    "message": "raol kontol",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-31T09:05:15.143Z",
+    "userIp": "114.125.96.0/20"
   }
 ]
