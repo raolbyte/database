@@ -174,5 +174,13 @@
     },
     "timestamp": "2025-07-31T13:44:55.202Z",
     "userIp": "2001:448a:50f0::/44"
+  },
+  {
+    "message": "awokawokawok",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-07-31T14:00:22.904Z",
+    "userIp": "114.10.136.0/23"
   }
 ]
