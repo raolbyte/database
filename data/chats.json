@@ -30,5 +30,13 @@
     },
     "timestamp": "2025-08-01T07:34:37.794Z",
     "userIp": "36.73.144.0/20"
+  },
+  {
+    "message": "Jir",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-08-01T09:28:01.468Z",
+    "userIp": "36.77.96.0/19"
   }
 ]
