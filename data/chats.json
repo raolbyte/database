@@ -22,5 +22,13 @@
     },
     "timestamp": "2025-08-01T06:00:32.767Z",
     "userIp": "202.81.48.0/20"
+  },
+  {
+    "message": "Hau",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-08-01T07:34:37.794Z",
+    "userIp": "36.73.144.0/20"
   }
 ]
