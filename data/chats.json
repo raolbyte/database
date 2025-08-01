@@ -46,5 +46,13 @@
     },
     "timestamp": "2025-08-01T10:27:22.067Z",
     "userIp": "38.191.165.0/24"
+  },
+  {
+    "message": "jawa bgt tuch",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-08-01T11:54:11.890Z",
+    "userIp": "36.69.144.0/20"
   }
 ]
