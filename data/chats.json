@@ -14,5 +14,13 @@
     },
     "timestamp": "2025-08-01T05:04:01.757Z",
     "userIp": "197.235.48.0/20"
+  },
+  {
+    "message": "pler",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-08-01T06:00:32.767Z",
+    "userIp": "202.81.48.0/20"
   }
 ]
