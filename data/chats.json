@@ -54,5 +54,13 @@
     },
     "timestamp": "2025-08-01T11:54:11.890Z",
     "userIp": "36.69.144.0/20"
+  },
+  {
+    "message": "haha",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-08-01T23:54:37.387Z",
+    "userIp": "182.4.128.0/17"
   }
 ]
