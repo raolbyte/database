@@ -38,5 +38,13 @@
     },
     "timestamp": "2025-08-01T09:28:01.468Z",
     "userIp": "36.77.96.0/19"
+  },
+  {
+    "message": "Ygy",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-08-01T10:27:22.067Z",
+    "userIp": "38.191.165.0/24"
   }
 ]
