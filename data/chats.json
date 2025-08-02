@@ -62,5 +62,13 @@
     },
     "timestamp": "2025-08-01T23:54:37.387Z",
     "userIp": "182.4.128.0/17"
+  },
+  {
+    "message": "ppppp",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-08-02T01:25:52.232Z",
+    "userIp": "140.213.48.0/20"
   }
 ]
