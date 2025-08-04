@@ -94,5 +94,13 @@
     },
     "timestamp": "2025-08-03T23:11:52.408Z",
     "userIp": "114.10.157.128/25"
+  },
+  {
+    "message": "ALVI",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-08-04T11:52:14.332Z",
+    "userIp": "103.141.47.0/24"
   }
 ]
