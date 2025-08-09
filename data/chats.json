@@ -110,5 +110,13 @@
     },
     "timestamp": "2025-08-09T13:35:39.765Z",
     "userIp": "115.178.238.0/24"
+  },
+  {
+    "message": "MEDAN RAYAP BESI",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-08-09T13:36:15.293Z",
+    "userIp": "115.178.238.0/24"
   }
 ]
