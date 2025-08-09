@@ -102,5 +102,13 @@
     },
     "timestamp": "2025-08-04T11:52:14.332Z",
     "userIp": "103.141.47.0/24"
+  },
+  {
+    "message": "JAWA JAWA JAWA",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-08-09T13:35:39.765Z",
+    "userIp": "115.178.238.0/24"
   }
 ]
