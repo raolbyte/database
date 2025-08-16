@@ -134,5 +134,13 @@
     },
     "timestamp": "2025-08-13T08:55:14.108Z",
     "userIp": "172.232.238.0/24"
+  },
+  {
+    "message": "woi",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-08-16T01:27:29.415Z",
+    "userIp": "140.213.67.0/24"
   }
 ]
