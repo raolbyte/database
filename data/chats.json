@@ -174,5 +174,13 @@
     },
     "timestamp": "2025-08-19T14:08:57.633Z",
     "userIp": "38.183.144.0/24"
+  },
+  {
+    "message": "P",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-08-19T23:04:56.559Z",
+    "userIp": "2400:9800:866::/48"
   }
 ]
