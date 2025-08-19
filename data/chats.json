@@ -150,5 +150,13 @@
     },
     "timestamp": "2025-08-19T12:26:20.947Z",
     "userIp": "111.94.120.0/21"
+  },
+  {
+    "message": "kontol kontol kontol",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-08-19T12:26:30.558Z",
+    "userIp": "111.94.120.0/21"
   }
 ]
