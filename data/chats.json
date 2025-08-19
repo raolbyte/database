@@ -166,5 +166,13 @@
     },
     "timestamp": "2025-08-19T14:08:17.388Z",
     "userIp": "38.183.144.0/24"
+  },
+  {
+    "message": "pping",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-08-19T14:08:57.633Z",
+    "userIp": "38.183.144.0/24"
   }
 ]
